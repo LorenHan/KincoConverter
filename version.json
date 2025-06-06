@@ -1,6 +1,7 @@
 {
   "version": "0.0.2",
-  "changelog_cn": "修复示波器打开锯齿状波形卡顿问题。",
-  "changelog_en": "Fix the problem that the oscilloscope opens the jagged waveform stuck.",
+  "release_date": "2025-06-06",
+  "changelog_cn": "第一次更新",
+  "changelog_en": "first update",
   "mandatory": true
 }
