@@ -1,7 +1,7 @@
 {
-  "version": "0.0.2",
-  "release_date": "2025-06-06",
-  "changelog_cn": "第一次更新",
-  "changelog_en": "first update",
+  "version": "0.1.4",
+  "release_date": "2025-06-16",
+  "changelog_cn": "1.打开ini时自动加载旧值到表格;\n2.读写地址：每10次只读后读1次，空值时每两轮读一次，后续降频。",
+  "changelog_en": "1.Auto-load existing values from ini into the table on opening.\n2.For read-write addresses: read once per 10 read-only cycles; if empty, check every 2 rounds and lower frequency later.",
   "mandatory": true
 }
